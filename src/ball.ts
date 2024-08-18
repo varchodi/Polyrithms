@@ -1,3 +1,4 @@
+import { playSound } from "./sound.js";
 import Track from "./track";
 
 export default class Ball {
